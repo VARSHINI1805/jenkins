@@ -96,13 +96,6 @@ http://192.168.117.128:5000
 
 ---
 
-## 👩‍💻 Author
-
-**Varshini S**  
-Computer Science Engineering  
-DevOps Enthusiast  
-
----
 
 ## 📌 Status
 
