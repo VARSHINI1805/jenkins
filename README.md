@@ -5,7 +5,6 @@ This repository contains my hands-on DevOps implementation using:
 - Docker
 - Git & GitHub
 - Jenkins CI/CD Pipeline
-
 ---
 
 ## 📂 Project Structure
